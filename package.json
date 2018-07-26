@@ -1,7 +1,7 @@
 {
-  "name": "weather-app",
+  "name": "cal-app",
   "version": "1.0.0",
-  "description": "weather app beta",
+  "description": "calc app beta",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

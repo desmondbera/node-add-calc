@@ -24,18 +24,4 @@ rl.question('Please enter at least two numbers to add: ', (response) => {
     rl.close();
     process.stdin.destroy;
   }
-})
-
-
-
-
-// rl.question('What kind of question is this?', (answer) => {
-//
-//   console.log(`You said: ${answer}`)
-//
-// })
-
-// const numbersToAdd = [3, 4, 10, 2];
-//
-// const result = calc.sum(numbersToAdd);
-// console.log(`The result is ${result}`);
+});
